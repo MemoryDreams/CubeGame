@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MazeGrid
+  - Mine
+  - PlayerParticle
+  - Wall
+  - BlackScreen
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - MicroCube
   - Water
   - UI
-  - 
-  - 
+  - Enemy
+  - Wall
   - 
   - 
   - 

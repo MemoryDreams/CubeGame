@@ -15,7 +15,7 @@ C:/Users/MoonL/OneDrive/Documents/UnityProjects/CubeGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-12335
+1438
 Successfully changed project path to: C:/Users/MoonL/OneDrive/Documents/UnityProjects/CubeGame
 C:/Users/MoonL/OneDrive/Documents/UnityProjects/CubeGame
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/MoonL/OneDrive/Documents/UnityProjects/CubeGame
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [9644] Host "[IP] 25.49.234.103 [Port] 0 [Flags] 2 [Guid] 211965582 [EditorId] 211965582 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VDIVF2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [14740] Host "[IP] 25.49.234.103 [Port] 0 [Flags] 2 [Guid] 3134516995 [EditorId] 3134516995 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VDIVF2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [9644] Host "[IP] 25.49.234.103 [Port] 0 [Flags] 2 [Guid] 211965582 [EditorId] 211965582 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VDIVF2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [14740] Host "[IP] 25.49.234.103 [Port] 0 [Flags] 2 [Guid] 3134516995 [EditorId] 3134516995 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VDIVF2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 2132.08 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 268.72 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
@@ -72,40 +72,40 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.339070 seconds.
+Registered in 0.083430 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 1967 ms
-Refreshing native plugins compatible for Editor in 181.61 ms, found 3 plugins.
+Android Extension - Scanning For ADB Devices 1714 ms
+Refreshing native plugins compatible for Editor in 184.25 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in 11.419 seconds
+- Completed reload, in  5.347 seconds
 Domain Reload Profiling:
-	ReloadAssembly (11421ms)
-		BeginReloadAssembly (6207ms)
+	ReloadAssembly (5349ms)
+		BeginReloadAssembly (1638ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (4528ms)
-			LoadAssemblies (6350ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (3302ms)
+			LoadAssemblies (1629ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (639ms)
+			SetupTypeCache (429ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (68ms)
-			SetupLoadedEditorAssemblies (3494ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (2622ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (2192ms)
+				InitializePlatformSupportModulesInManaged (2002ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (182ms)
+				RefreshPlugins (184ms)
 				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (392ms)
-				ProcessInitializeOnLoadMethodAttributes (725ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (179ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011162 seconds.
+Registered in 0.012213 seconds.
